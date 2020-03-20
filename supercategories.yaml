@@ -79,6 +79,7 @@
   - q0TFIMNSfMRyd45d_UxQ5-Bv
   - ynYBlYKfSpNFPMUkSFz9kzeP
   - d2lnRcZuXIj2qWI222G3UwWT
+  collapsed: true
   color: 3
   content: (Who?) **Assets** (things, agents, topics*)
   created: 1584674961869
@@ -163,6 +164,7 @@
 - children:
   - eaT4BrWKIsrbzFahXmgGRPhL
   - CS-vX-_stbO3Mo23MvZNHbi6
+  collapsed: true
   color: 4
   content: (Why?) **Goals:**
   created: 1584674961860
@@ -174,6 +176,7 @@
     Inter-National Treaty, **TSV**: Technological-Scientific Visions.'
 - children:
   - G-WjwOkaSZR3rEFvE8i98sLA
+  collapsed: true
   color: 2
   content: (What?) **Plans:**
   created: 1584674961862
@@ -295,6 +298,7 @@
   - 2nt_JN-RFsDVUe8Oh9FiDWlB
   - xE_PNVm7gs65ndInbVaP3_M-
   - arsVkKHUFymlndZrKRBFVtkz
+  collapsed: true
   content: '**F:  ENTITIES**'
   created: 1584674961869
   id: vtFC_IDeZYDR19WU43kT5eyf
@@ -309,6 +313,7 @@
   note: ''
 - children:
   - XccxPtp2RavaFXl4H2uqXGDA
+  collapsed: true
   color: 5
   content: (How?) **Ideas:**
   created: 1584674961861
