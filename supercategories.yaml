@@ -1,0 +1,384 @@
+- children:
+  - 7MuJENclzCOvR4HkS_Kl4r-4
+  - O49KIBy8Rh2TiLF0sUkosY62
+  - vtFC_IDeZYDR19WU43kT5eyf
+  content: Supercategories
+  created: 1584674942278
+  id: root
+  modified: 1584679326182
+  note: 'Editing history is backed up hourly, on GitHub: '
+- color: 1
+  content: 'Pavyzdiniai Šaltiniai: [Google Maps](http://maps.google.com/) [RLOCs],
+    [Shodan](https://www.shodan.io/) [VLOCs]'
+  created: 1584674961871
+  id: KZkrp9GjUDi3t4FEEN--9NHY
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: '**Example sources:** [AirBnB](https://www.airbnb.com/) [NREIDs], [NASDAQ](https://www.nasdaq.com/)
+    [FINIDS], [FOREX](https://www.forex.com/en-us/international/) [FINIDS], [MMI-Direct](https://mmi-direct.com/machines/search/?make_id=&page=brand)
+    [INSTRID] (can infer from [Alibaba](https://www.alibaba.com/))'
+  created: 1584674961870
+  id: A9m_U22mklWqcQPTZNSWtNKL
+  modified: 1584675156957
+  note: ''
+- color: 1
+  content: 'LAB-OP: Universities, Institutes labs.'
+  created: 1584674961868
+  id: 4-LmyoF263ir3_Nnn1vE0P-d
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: 'MTF  (Money TF = Remittances): Banks, Credit Unions, etc., [WesternUnion]([https://westernunion.com),
+    [TransferMate](https://transfermate.com), [TransferWise](https://transferwise.com/),
+    [Visa](https://www.visa.com/), [MasterCard](http://www.mastercard.com/)'
+  created: 1584674961867
+  id: YxkbsOOieu5lu_rsWXJDLpdZ
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: 'UI-MOVE: [AdWords](https://adwords.com/), [RescueTime](https://www.rescuetime.com/),
+    [Toggl](https://toggl.com/), [Google Analytics](http://analytics.google.com/),
+    [MixPanel](https://mixpanel.com/), [Intercom](Product Usage Analytics), Mobile
+    OS providers, Cloud App providers...'
+  created: 1584674961866
+  id: qaHoDe05I5k8cfYKNXVtCeNN
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: '**Example sources:** [JIRA](https://www.atlassian.com/software/jira),
+    [Asana](https://app.asana.com/), ([some](https://www.odoo.com/page/project-management)
+    ERP software may have)'
+  created: 1584674961863
+  id: G-WjwOkaSZR3rEFvE8i98sLA
+  modified: 1584675210971
+  note: ''
+- color: 1
+  content: 'ORG-PROD: [Oodo](https://www.odoo.com/), [SAP](https://www.sap.com/),
+    ir kt. ERP sistemos.'
+  created: 1584674961866
+  id: LxsolGGxNUBDCvH1mOag-QsI
+  modified: 1584674965027
+  note: ''
+- content: '[Maps.lt](http://maps.lt/map/)'
+  created: 1584674961872
+  id: 4ZxuyR4K5M2GE-7HXarAJLK9
+  modified: 1584675348988
+  note: ''
+- color: 1
+  content: '**Example sources:** [Dun & Bradstreet](https://www.dnb.com/) [300 mln.
+    CREDs], [Panjiva](https://panjiva.com/) [?? CREDs],  [OpenCorporates](https://opencorporates.com)
+    [?? CREDs], [Kompass](http://kompass.com/) [8 mln. CREDs], [SocialGist](https://socialgist.com/)
+    [?? SNETs], [International White and Yellow Pages](http://www.wayp.com/) [??]'
+  created: 1584674961869
+  id: c8QQVapDpI0oQYJM4BBmschw
+  modified: 1584675078966
+  note: ''
+- children:
+  - q0TFIMNSfMRyd45d_UxQ5-Bv
+  - ynYBlYKfSpNFPMUkSFz9kzeP
+  - d2lnRcZuXIj2qWI222G3UwWT
+  color: 3
+  content: (Who?) **Assets** (things, agents, topics*)
+  created: 1584674961869
+  id: 2nt_JN-RFsDVUe8Oh9FiDWlB
+  modified: 1584675030966
+  note: ''
+- color: 1
+  content: 'MED-OP: Hospitals'
+  created: 1584674961868
+  id: YTeJmadXRusCst9z7S9ZbpSW
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: 'CPU-OP: [ProcessExplorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)'
+  created: 1584674961865
+  id: 1fuWiFYoC5OiaopKz3Jxvrzr
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: '**Example sources:** [ALL] [LexisNexis](https://www.lexisnexis.com)'
+  created: 1584674961861
+  id: eaT4BrWKIsrbzFahXmgGRPhL
+  modified: 1584675228967
+  note: ''
+- content: '[E-Tar](https://www.e-tar.lt/), [LexNet](http://www.lexnet.lt/) (infoleksis).'
+  created: 1584674961861
+  id: HK17NOyUHJz-VADX1K99oY0J
+  modified: 1584675246967
+  note: ''
+- children:
+  - F12p-uGmIz9I4a1ha00L67IP
+  content: '**X: ACTIONS**'
+  created: 1584674961863
+  id: O49KIBy8Rh2TiLF0sUkosY62
+  modified: 1584674982959
+  note: ''
+- color: 1
+  content: 'NET-RQST: Telcos, ISPs'
+  created: 1584674961865
+  id: dyDqnbFqHcqU7pcd-niGqnKp
+  modified: 1584674965027
+  note: ''
+- children:
+  - 4XcnAET7Jz1m6zuOvJpp7VlL
+  collapsed: true
+  color: 3
+  content: '**Topic:** (Themes)'
+  created: 1584674961871
+  id: d2lnRcZuXIj2qWI222G3UwWT
+  modified: 1584675042971
+  note: '**BPST**: Blogposts, **NPST**: Newspost'
+- color: 1
+  content: '**Example sources:** [http://gdeltproject.org](http://gdeltproject.org/)
+    [Open News Aggregator] [BPST + NPST]'
+  created: 1584674961871
+  id: 4XcnAET7Jz1m6zuOvJpp7VlL
+  modified: 1584675198977
+  note: ''
+- children:
+  - YxkbsOOieu5lu_rsWXJDLpdZ
+  - NOxHws_PU1rtHLPuSQRWkPjl
+  - CasQh1zgtvC8r7qpw4_quP50
+  color: 1
+  content: '**TF**: Transfer Operations'
+  created: 1584674961867
+  id: OW0-3oLpbJ9d88jvQ8pDUVyz
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: (Everywhere)
+  created: 1584674961872
+  id: 0lLItnb_HBJa4eAJV7MlsGt2
+  modified: 1584674965027
+  note: ''
+- color: 1
+  content: 'TRD-ORD: [MetaQuotes](https://www.metaquotes.net/), [NASDAQ](https://www.nasdaq.com),
+    [Amazon](http://amazon.com), [Oanda](https://www.oanda.com/) ir kitos finansinės
+    rinkos ir e-komercija.'
+  created: 1584674961867
+  id: G2HlyjA4NHDX2g7RrsE1dsbj
+  modified: 1584674965027
+  note: ''
+- children:
+  - eaT4BrWKIsrbzFahXmgGRPhL
+  - CS-vX-_stbO3Mo23MvZNHbi6
+  collapsed: true
+  color: 4
+  content: (Why?) **Goals:**
+  created: 1584674961860
+  id: 8PjSVqJCz29i_3mIXYM6SSJ7
+  modified: 1584674970977
+  note: '**NPL**: National Policy, **NLG**: National Legislature Goal,  **RLG**: Regional
+    Legislature Goals, **OP**: Organization Policy, **RDG**: Regional Development
+    Goal, **NMG**: NGO/NPO Mission Goals, **ECI**: Ethnic-Cultural Intent, **INTT**:
+    Inter-National Treaty, **TSV**: Technological-Scientific Visions.'
+- children:
+  - G-WjwOkaSZR3rEFvE8i98sLA
+  collapsed: true
+  color: 2
+  content: (What?) **Plans:**
+  created: 1584674961862
+  id: 6OvJm9OBS-LCb9-YDH7BfOpv
+  modified: 1584674976974
+  note: '**CPN**: Company Project Name, **CSPN**: Consortium Programme, **PPN**: Personal
+    Project Name, **PCN**: Project Codename, **MID**: Mission ID.'
+- color: 1
+  content: '**Example sources:** [Scopus]([https://www.scopus.com](https://www.scopus.com/))
+    [69 mln. SPN], [Google Scholar](https://scholar.google.com/), [Google Patents](https://www.google.com/?tbm=pts)
+    [100 mln. PTN], [OAI-Repository](https://quest.library.illinois.edu/oairegistry)
+    [30 mln. SPN/TRP], [ResearchGate](https://www.researchgate.net) [118 mln.], [TarrifNumber](https://www.tariffnumber.com/)
+    [7.5 tūkst. PCAT], [USPTO](http://patft.uspto.gov/) [?? PTN], [Halfbakery](https://www.halfbakery.com/)
+    [50 tūkst. INBS], CD-REPO: [GitHub](https://github.com/), [GitLab](https://gitlab.com/),
+    [BitBucket](https://bitbucket.org/), [Coding](https://coding.net/) [CD-REPOs],
+    [Certipedia](https://www.certipedia.com/search/): [STDs]'
+  created: 1584674961862
+  id: XccxPtp2RavaFXl4H2uqXGDA
+  modified: 1584675600973
+  note: ''
+- color: 1
+  content: 'WEB-DEPLOYMENTS: [CircleCI](https://circleci.com/), [TravisCI](https://travis-ci.org/),
+    etc.'
+  created: 1584674961866
+  id: 9KOMoikF7eWXbr8MH23qZisM
+  modified: 1584674965027
+  note: ''
+- children:
+  - 0lLItnb_HBJa4eAJV7MlsGt2
+  collapsed: true
+  color: 3
+  content: (When?) **Events**
+  created: 1584674961872
+  id: arsVkKHUFymlndZrKRBFVtkz
+  modified: 1584675048963
+  note: '**TS**: Timestamps,  **DT**: Dates'
+- children:
+  - A9m_U22mklWqcQPTZNSWtNKL
+  - Vuvjy4nLC_HRrxLSlZvv6fxG
+  collapsed: true
+  color: 3
+  content: '**Thing:** (Objects)'
+  created: 1584674961870
+  id: ynYBlYKfSpNFPMUkSFz9kzeP
+  modified: 1584675042971
+  note: '**NREIDs**: National Real Estate IDs (e.g., Cadastre), **NTEID**: National
+    Tangible Asset IDs (e.g., National car registry, National Phone registry), **INSTRID**:
+    Instrumentation/Industrial Machinery IDs, **COMIDS**: Commodity Product Unit IDs,
+    **FINIDS**: Financial Product Unit IDs, **WASID** (Web Asset IDs, e.g., [MAC address](https://en.wikipedia.org/wiki/MAC_address))'
+- children:
+  - KZkrp9GjUDi3t4FEEN--9NHY
+  - 4ZxuyR4K5M2GE-7HXarAJLK9
+  collapsed: true
+  color: 3
+  content: (Where?) **Places**
+  created: 1584674961871
+  id: xE_PNVm7gs65ndInbVaP3_M-
+  modified: 1584675048963
+  note: '**RLOC**: Real Location (e.g., Address), [WGS](https://en.wikipedia.org/wiki/World_Geodetic_System),
+    [WCS/FITS](https://fits.gsfc.nasa.gov/fits_wcs.html), **VLOC**: Virtual Location
+    (e.g., IP, IPv6 address, neural net region), DNS (Kompiuterių/telefonų adresų
+    registrai ( 4.3+ mlrd. IP adresų ))'
+- children:
+  - 8PjSVqJCz29i_3mIXYM6SSJ7
+  - r-kwhSLNUt8G_m9ZLghMkc9b
+  - 6OvJm9OBS-LCb9-YDH7BfOpv
+  content: '**Y: CONDITIONS**'
+  created: 1584674961593
+  id: 7MuJENclzCOvR4HkS_Kl4r-4
+  modified: 1584674970977
+  note: ''
+- color: 1
+  content: 'ATF (Asset TF = Shipments): [Panjiva](https://panjiva.com/), [Marine Traffic](http://marinetraffic.com),
+    [FlightRadar](http://flightradar24.com/), Muitinė, Paštas.'
+  created: 1584674961868
+  id: NOxHws_PU1rtHLPuSQRWkPjl
+  modified: 1584674965027
+  note: ''
+- children:
+  - LjDB7XE-EFizyzdsu43d6cC5
+  color: 6
+  content: (Doing...) **Operations**
+  created: 1584674961865
+  id: F12p-uGmIz9I4a1ha00L67IP
+  modified: 1584674976974
+  note: '**CPU-OPS**: Floating Point Operation, **NET-RQST**: Network Request Operation,
+    **UI-MOVE**: User Interface Movement, **ORG-TASK**: Organization Tasks, **ORG-PROD**:
+    Organization Products, **TRD-ORD**: Market Trade Orders, **MTF**: Money Transfers,
+    **ATF**: Asset Transfer (e.g., Shipment), **ITF**: Information Transfer (e.g.,
+    Message, File Upload, etc., overlaps with NET-RQST), **MED-OP**: Medical Operation,
+    **LAB-OP**: Laboratory Operation, **WEB-DEPLOYMENTS**: CI/CD-based online systems
+    deployment operations.'
+- children:
+  - 1fuWiFYoC5OiaopKz3Jxvrzr
+  - dyDqnbFqHcqU7pcd-niGqnKp
+  - 9KOMoikF7eWXbr8MH23qZisM
+  - qaHoDe05I5k8cfYKNXVtCeNN
+  - VCSprPfXoVV8xTdHZy4UIYLi
+  - LxsolGGxNUBDCvH1mOag-QsI
+  - G2HlyjA4NHDX2g7RrsE1dsbj
+  - OW0-3oLpbJ9d88jvQ8pDUVyz
+  - YTeJmadXRusCst9z7S9ZbpSW
+  - 4-LmyoF263ir3_Nnn1vE0P-d
+  collapsed: true
+  content: '**Example sources:** '
+  created: 1584674961865
+  id: LjDB7XE-EFizyzdsu43d6cC5
+  modified: 1584675066971
+  note: ''
+- children:
+  - c8QQVapDpI0oQYJM4BBmschw
+  - RatezVZ2aOmFILVmay00Osed
+  collapsed: true
+  color: 3
+  content: '**Agent:** (Actors)'
+  created: 1584674961869
+  id: q0TFIMNSfMRyd45d_UxQ5-Bv
+  modified: 1584675036969
+  note: '**CRED**: Company Registry ID (e.g., D-U-N-S), **CNID**: Company National
+    ID, **INID**: Individual National ID, **SNET**: Social Net IDs.'
+- children:
+  - 2nt_JN-RFsDVUe8Oh9FiDWlB
+  - xE_PNVm7gs65ndInbVaP3_M-
+  - arsVkKHUFymlndZrKRBFVtkz
+  content: '**F:  ENTITIES**'
+  created: 1584674961869
+  id: vtFC_IDeZYDR19WU43kT5eyf
+  modified: 1584675018971
+  note: ''
+- color: 1
+  content: 'ORG-TASK: [Asana](https://asana.com/), [Trello](http://trello.com), [Jira](http://jira.atlassian.com),
+    ir kt. projektų valdymo sistemos.'
+  created: 1584674961866
+  id: VCSprPfXoVV8xTdHZy4UIYLi
+  modified: 1584674965027
+  note: ''
+- children:
+  - XccxPtp2RavaFXl4H2uqXGDA
+  color: 5
+  content: (How?) **Ideas:**
+  created: 1584674961861
+  id: r-kwhSLNUt8G_m9ZLghMkc9b
+  modified: 1584675498964
+  note: '**ICAT**: Industry Category Codes, **PCAT**: Product Category Codes (e.g.,
+    HS), **ACAT**: Economic Activity Category Codes (e.g., [NACE](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html),
+    [SIC](https://siccode.com/sic-code-lookup-directory), [NAICS](https://www.naics.com/search/)),
+    **PTN**: Patent Number, **SPN**: Scientific Publication Number (e.g., [DOI](https://www.doi.org/)),
+    **TRP**: Technical Report, **PROT**: Laboratory or Medical Protocol (e.g., [Protocol-Online](http://www.protocol-online.org/)),
+    **INBS**: Innovative Brainstoriming ideas, **CD-REPO**: Code Repository (ideas
+    for runtime processes), **STD**: Standard ID.'
+- content: Nekilnojamo turto kadastras ir registras](https://www.registrucentras.lt/turtas/)
+    [NREIDs], [LT] [Regitra](https://www.regitra.lt/) [NTAIDs], žemės registrai.
+  created: 1584674961870
+  id: _Vee9-IXpKLdSPY7r-3eTl5j
+  modified: 1584675342967
+  note: ''
+- color: 1
+  content: 'ITF (Info TF = Messages): [GDELT](https://www.gdeltproject.org) [Public],
+    [Slack](http://slack.com) [Corporate], [Telegram](https://telegram.org) [Personal]'
+  created: 1584674961868
+  id: CasQh1zgtvC8r7qpw4_quP50
+  modified: 1584674965027
+  note: ''
+- content: https://oxylabs.io/ (Amazon)
+  created: 1584674961871
+  id: Pk48nR0dECMTj5Y3VbFevscl
+  modified: 1584675342967
+  note: ''
+- children:
+  - QyI59e7cTwwSqVBwpTq4Lu3T
+  - YoQ6Vo6H3NMjqXoUGOmNSxQq
+  color: 1
+  content: '[LT]'
+  created: 1584674961869
+  id: RatezVZ2aOmFILVmay00Osed
+  modified: 1584675114975
+  note: ''
+- content: '[ABALT](https://abalt.lt/) [CNIDs], [Atvira Sodra](http://atvira.sodra.lt/imones/rinkiniai/index.html)
+    [CNIDs, INIDs], [Rekvizitai](https://rekvizitai.vz.lt) [CREDs]. [Gyventojų Registras](https://www.registrucentras.lt/gyventojai/)
+    [INIDs]'
+  created: 1584674961869
+  id: QyI59e7cTwwSqVBwpTq4Lu3T
+  modified: 1584675318963
+  note: ''
+- content: https://oxylabs.io/ (SNETs)
+  created: 1584674961870
+  id: YoQ6Vo6H3NMjqXoUGOmNSxQq
+  modified: 1584675336966
+  note: ''
+- children:
+  - _Vee9-IXpKLdSPY7r-3eTl5j
+  - Pk48nR0dECMTj5Y3VbFevscl
+  color: 1
+  content: '[LT]'
+  created: 1584675166731
+  id: Vuvjy4nLC_HRrxLSlZvv6fxG
+  modified: 1584675174976
+  note: ''
+- children:
+  - HK17NOyUHJz-VADX1K99oY0J
+  color: 1
+  content: '[LT]'
+  created: 1584675231691
+  id: CS-vX-_stbO3Mo23MvZNHbi6
+  modified: 1584675240971
+  note: ''
