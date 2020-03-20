@@ -79,7 +79,6 @@
   - q0TFIMNSfMRyd45d_UxQ5-Bv
   - ynYBlYKfSpNFPMUkSFz9kzeP
   - d2lnRcZuXIj2qWI222G3UwWT
-  collapsed: true
   color: 3
   content: (Who?) **Assets** (things, agents, topics*)
   created: 1584674961869
@@ -124,6 +123,7 @@
   note: ''
 - children:
   - 4XcnAET7Jz1m6zuOvJpp7VlL
+  collapsed: true
   color: 3
   content: '**Topic:** (Themes)'
   created: 1584674961871
@@ -215,6 +215,7 @@
 - children:
   - A9m_U22mklWqcQPTZNSWtNKL
   - Vuvjy4nLC_HRrxLSlZvv6fxG
+  collapsed: true
   color: 3
   content: '**Thing:** (Objects)'
   created: 1584674961870
@@ -258,14 +259,14 @@
   content: (Doing...) **Operations**
   created: 1584674961865
   id: F12p-uGmIz9I4a1ha00L67IP
-  modified: 1584674976974
+  modified: 1584687000777
   note: '**CPU-OPS**: Floating Point Operation, **NET-RQST**: Network Request Operation,
     **UI-MOVE**: User Interface Movement, **ORG-TASK**: Organization Tasks, **ORG-PROD**:
     Organization Products, **TRD-ORD**: Market Trade Orders, **MTF**: Money Transfers,
     **ATF**: Asset Transfer (e.g., Shipment), **ITF**: Information Transfer (e.g.,
     Message, File Upload, etc., overlaps with NET-RQST), **MED-OP**: Medical Operation,
     **LAB-OP**: Laboratory Operation, **WEB-DEPLOYMENTS**: CI/CD-based online systems
-    deployment operations.'
+    deployment operations, **SCOP**: Supply Chain Operation.'
 - children:
   - 1fuWiFYoC5OiaopKz3Jxvrzr
   - dyDqnbFqHcqU7pcd-niGqnKp
@@ -277,7 +278,6 @@
   - OW0-3oLpbJ9d88jvQ8pDUVyz
   - YTeJmadXRusCst9z7S9ZbpSW
   - 4-LmyoF263ir3_Nnn1vE0P-d
-  collapsed: true
   content: '**Example sources:** '
   created: 1584674961865
   id: LjDB7XE-EFizyzdsu43d6cC5
@@ -291,14 +291,14 @@
   content: '**Agent:** (Actors)'
   created: 1584674961869
   id: q0TFIMNSfMRyd45d_UxQ5-Bv
-  modified: 1584675036969
+  modified: 1584687570792
   note: '**CRED**: Company Registry ID (e.g., D-U-N-S), **CNID**: Company National
-    ID, **INID**: Individual National ID, **SNET**: Social Net IDs.'
+    ID, **INID**: Individual National ID, **SNET**: Social Net IDs, **SCR**: Supply
+    Chain Role., **SR**: Social Role.'
 - children:
   - 2nt_JN-RFsDVUe8Oh9FiDWlB
   - xE_PNVm7gs65ndInbVaP3_M-
   - arsVkKHUFymlndZrKRBFVtkz
-  collapsed: true
   content: '**F:  ENTITIES**'
   created: 1584674961869
   id: vtFC_IDeZYDR19WU43kT5eyf
