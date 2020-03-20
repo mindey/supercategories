@@ -5,14 +5,15 @@
   content: Supercategories
   created: 1584674942278
   id: root
-  modified: 1584679326182
-  note: 'Editing history is backed up hourly, on GitHub: '
+  modified: 1584679878189
+  note: Editing history is backed up hourly, [here](https://github.com/mindey/supercategories)
+    on GitHub.
 - color: 1
-  content: 'Pavyzdiniai Šaltiniai: [Google Maps](http://maps.google.com/) [RLOCs],
-    [Shodan](https://www.shodan.io/) [VLOCs]'
+  content: 'Example sources: [Google Maps](http://maps.google.com/) [RLOCs], [Shodan](https://www.shodan.io/)
+    [VLOCs]'
   created: 1584674961871
   id: KZkrp9GjUDi3t4FEEN--9NHY
-  modified: 1584674965027
+  modified: 1584679800652
   note: ''
 - color: 1
   content: '**Example sources:** [AirBnB](https://www.airbnb.com/) [NREIDs], [NASDAQ](https://www.nasdaq.com/)
@@ -122,7 +123,6 @@
   note: ''
 - children:
   - 4XcnAET7Jz1m6zuOvJpp7VlL
-  collapsed: true
   color: 3
   content: '**Topic:** (Themes)'
   created: 1584674961871
@@ -163,7 +163,6 @@
 - children:
   - eaT4BrWKIsrbzFahXmgGRPhL
   - CS-vX-_stbO3Mo23MvZNHbi6
-  collapsed: true
   color: 4
   content: (Why?) **Goals:**
   created: 1584674961860
@@ -175,7 +174,6 @@
     Inter-National Treaty, **TSV**: Technological-Scientific Visions.'
 - children:
   - G-WjwOkaSZR3rEFvE8i98sLA
-  collapsed: true
   color: 2
   content: (What?) **Plans:**
   created: 1584674961862
@@ -205,7 +203,6 @@
   note: ''
 - children:
   - 0lLItnb_HBJa4eAJV7MlsGt2
-  collapsed: true
   color: 3
   content: (When?) **Events**
   created: 1584674961872
@@ -215,7 +212,6 @@
 - children:
   - A9m_U22mklWqcQPTZNSWtNKL
   - Vuvjy4nLC_HRrxLSlZvv6fxG
-  collapsed: true
   color: 3
   content: '**Thing:** (Objects)'
   created: 1584674961870
@@ -228,7 +224,6 @@
 - children:
   - KZkrp9GjUDi3t4FEEN--9NHY
   - 4ZxuyR4K5M2GE-7HXarAJLK9
-  collapsed: true
   color: 3
   content: (Where?) **Places**
   created: 1584674961871
