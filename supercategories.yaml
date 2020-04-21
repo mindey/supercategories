@@ -318,14 +318,14 @@
   content: (How?) **Ideas:**
   created: 1584674961861
   id: r-kwhSLNUt8G_m9ZLghMkc9b
-  modified: 1584675498964
+  modified: 1587499426459
   note: '**ICAT**: Industry Category Codes, **PCAT**: Product Category Codes (e.g.,
     HS), **ACAT**: Economic Activity Category Codes (e.g., [NACE](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html),
     [SIC](https://siccode.com/sic-code-lookup-directory), [NAICS](https://www.naics.com/search/)),
     **PTN**: Patent Number, **SPN**: Scientific Publication Number (e.g., [DOI](https://www.doi.org/)),
     **TRP**: Technical Report, **PROT**: Laboratory or Medical Protocol (e.g., [Protocol-Online](http://www.protocol-online.org/)),
     **INBS**: Innovative Brainstoriming ideas, **CD-REPO**: Code Repository (ideas
-    for runtime processes), **STD**: Standard ID.'
+    for runtime processes), **STD**: Standard ID, *THM*: Mathematical theorem (3 mln).'
 - content: Nekilnojamo turto kadastras ir registras](https://www.registrucentras.lt/turtas/)
     [NREIDs], [LT] [Regitra](https://www.regitra.lt/) [NTAIDs], žemės registrai.
   created: 1584674961870
