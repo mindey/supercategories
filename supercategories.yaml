@@ -79,6 +79,7 @@
   - q0TFIMNSfMRyd45d_UxQ5-Bv
   - ynYBlYKfSpNFPMUkSFz9kzeP
   - d2lnRcZuXIj2qWI222G3UwWT
+  collapsed: true
   color: 3
   content: (Who?) **Assets** (things, agents, topics*)
   created: 1584674961869
@@ -256,7 +257,6 @@
   note: ''
 - children:
   - LjDB7XE-EFizyzdsu43d6cC5
-  collapsed: true
   color: 6
   content: (Doing...) **Operations**
   created: 1584674961865
