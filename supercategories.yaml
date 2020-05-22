@@ -1,7 +1,7 @@
 - children:
-  - 7MuJENclzCOvR4HkS_Kl4r-4
-  - O49KIBy8Rh2TiLF0sUkosY62
   - vtFC_IDeZYDR19WU43kT5eyf
+  - O49KIBy8Rh2TiLF0sUkosY62
+  - 7MuJENclzCOvR4HkS_Kl4r-4
   content: Supercategories
   created: 1584674942278
   id: root
@@ -164,6 +164,7 @@
 - children:
   - eaT4BrWKIsrbzFahXmgGRPhL
   - CS-vX-_stbO3Mo23MvZNHbi6
+  collapsed: true
   color: 4
   content: (Why?) **Goals:**
   created: 1584674961860
@@ -205,6 +206,7 @@
   note: ''
 - children:
   - 0lLItnb_HBJa4eAJV7MlsGt2
+  collapsed: true
   color: 3
   content: (When?) **Events**
   created: 1584674961872
@@ -214,7 +216,6 @@
 - children:
   - A9m_U22mklWqcQPTZNSWtNKL
   - Vuvjy4nLC_HRrxLSlZvv6fxG
-  collapsed: true
   color: 3
   content: '**Thing:** (Objects)'
   created: 1584674961870
@@ -227,6 +228,7 @@
 - children:
   - KZkrp9GjUDi3t4FEEN--9NHY
   - 4ZxuyR4K5M2GE-7HXarAJLK9
+  collapsed: true
   color: 3
   content: (Where?) **Places**
   created: 1584674961871
@@ -254,6 +256,7 @@
   note: ''
 - children:
   - LjDB7XE-EFizyzdsu43d6cC5
+  collapsed: true
   color: 6
   content: (Doing...) **Operations**
   created: 1584674961865
@@ -285,7 +288,6 @@
 - children:
   - c8QQVapDpI0oQYJM4BBmschw
   - RatezVZ2aOmFILVmay00Osed
-  collapsed: true
   color: 3
   content: '**Agent:** (Actors)'
   created: 1584674961869
@@ -312,6 +314,7 @@
   note: ''
 - children:
   - XccxPtp2RavaFXl4H2uqXGDA
+  collapsed: true
   color: 5
   content: (How?) **Ideas:**
   created: 1584674961861
