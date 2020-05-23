@@ -5,9 +5,9 @@
   content: Supercategories
   created: 1584674942278
   id: root
-  modified: 1584679878189
-  note: Editing history is backed up hourly, [here](https://github.com/mindey/supercategories)
-    on GitHub.
+  modified: 1590272080910
+  note: 'Editing history is backed up hourly, [here](https://github.com/mindey/supercategories)
+    on GitHub. Graphed: [here](https://wiki.mindey.com/shared/shots/70af465aa3d5b4ad37d46150c.png).'
 - color: 1
   content: 'Example sources: [Google Maps](http://maps.google.com/) [RLOCs], [Shodan](https://www.shodan.io/)
     [VLOCs]'
