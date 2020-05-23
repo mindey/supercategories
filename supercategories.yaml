@@ -16,12 +16,12 @@
   modified: 1584679800652
   note: ''
 - color: 1
-  content: '**Example sources:** [AirBnB](https://www.airbnb.com/) [NREIDs], [NASDAQ](https://www.nasdaq.com/)
-    [FINIDS], [FOREX](https://www.forex.com/en-us/international/) [FINIDS], [MMI-Direct](https://mmi-direct.com/machines/search/?make_id=&page=brand)
+  content: '**Example sources:** [AirBnB](https://www.airbnb.com/) [NREIDs], [Tradingview](https://www.tradingview.com/)
+    [FINIDS], [MMI-Direct](https://mmi-direct.com/machines/search/?make_id=&page=brand)
     [INSTRID] (can infer from [Alibaba](https://www.alibaba.com/))'
   created: 1584674961870
   id: A9m_U22mklWqcQPTZNSWtNKL
-  modified: 1584675156957
+  modified: 1590270353343
   note: ''
 - color: 1
   content: 'LAB-OP: Universities, Institutes labs.'
@@ -123,7 +123,6 @@
   note: ''
 - children:
   - 4XcnAET7Jz1m6zuOvJpp7VlL
-  collapsed: true
   color: 3
   content: '**Topic:** (Themes)'
   created: 1584674961871
@@ -154,12 +153,12 @@
   modified: 1584674965027
   note: ''
 - color: 1
-  content: 'TRD-ORD: [MetaQuotes](https://www.metaquotes.net/), [NASDAQ](https://www.nasdaq.com),
+  content: 'TRD-ORD: [MetaQuotes](https://www.metaquotes.net/), [TradingView](https://www.tradingview.com),
     [Amazon](http://amazon.com), [Oanda](https://www.oanda.com/) ir kitos finansinės
     rinkos ir e-komercija.'
   created: 1584674961867
   id: G2HlyjA4NHDX2g7RrsE1dsbj
-  modified: 1584674965027
+  modified: 1590268498906
   note: ''
 - children:
   - eaT4BrWKIsrbzFahXmgGRPhL
@@ -188,12 +187,12 @@
     [100 mln. PTN], [OAI-Repository](https://quest.library.illinois.edu/oairegistry)
     [30 mln. SPN/TRP], [ResearchGate](https://www.researchgate.net) [118 mln.], [TarrifNumber](https://www.tariffnumber.com/)
     [7.5 tūkst. PCAT], [USPTO](http://patft.uspto.gov/) [?? PTN], [Halfbakery](https://www.halfbakery.com/)
-    [50 tūkst. INBS], CD-REPO: [GitHub](https://github.com/), [GitLab](https://gitlab.com/),
+    [50K INBS], CD-REPO: [GitHub](https://github.com/), [GitLab](https://gitlab.com/),
     [BitBucket](https://bitbucket.org/), [Coding](https://coding.net/) [CD-REPOs],
     [Certipedia](https://www.certipedia.com/search/): [STDs]'
   created: 1584674961862
   id: XccxPtp2RavaFXl4H2uqXGDA
-  modified: 1584675600973
+  modified: 1590269423421
   note: ''
 - color: 1
   content: 'WEB-DEPLOYMENTS: [CircleCI](https://circleci.com/), [TravisCI](https://travis-ci.org/),
@@ -213,7 +212,6 @@
 - children:
   - A9m_U22mklWqcQPTZNSWtNKL
   - Vuvjy4nLC_HRrxLSlZvv6fxG
-  collapsed: true
   color: 3
   content: '**Thing:** (Objects)'
   created: 1584674961870
@@ -253,6 +251,7 @@
   note: ''
 - children:
   - LjDB7XE-EFizyzdsu43d6cC5
+  collapsed: true
   color: 6
   content: (Doing...) **Operations**
   created: 1584674961865
@@ -284,15 +283,13 @@
 - children:
   - c8QQVapDpI0oQYJM4BBmschw
   - RatezVZ2aOmFILVmay00Osed
-  collapsed: true
   color: 3
   content: '**Agent:** (Actors)'
   created: 1584674961869
   id: q0TFIMNSfMRyd45d_UxQ5-Bv
-  modified: 1584687570792
+  modified: 1590270131361
   note: '**CRED**: Company Registry ID (e.g., D-U-N-S), **CNID**: Company National
-    ID, **INID**: Individual National ID, **SNET**: Social Net IDs, **SCR**: Supply
-    Chain Role., **SR**: Social Role.'
+    ID, **INID**: Individual National ID, **SNET**: Social Net IDs'
 - children:
   - 2nt_JN-RFsDVUe8Oh9FiDWlB
   - xE_PNVm7gs65ndInbVaP3_M-
@@ -315,14 +312,15 @@
   content: (How?) **Ideas:**
   created: 1584674961861
   id: r-kwhSLNUt8G_m9ZLghMkc9b
-  modified: 1587499426459
+  modified: 1590269182884
   note: '**ICAT**: Industry Category Codes, **PCAT**: Product Category Codes (e.g.,
     HS), **ACAT**: Economic Activity Category Codes (e.g., [NACE](https://ec.europa.eu/competition/mergers/cases/index/nace_all.html),
     [SIC](https://siccode.com/sic-code-lookup-directory), [NAICS](https://www.naics.com/search/)),
     **PTN**: Patent Number, **SPN**: Scientific Publication Number (e.g., [DOI](https://www.doi.org/)),
     **TRP**: Technical Report, **PROT**: Laboratory or Medical Protocol (e.g., [Protocol-Online](http://www.protocol-online.org/)),
     **INBS**: Innovative Brainstoriming ideas, **CD-REPO**: Code Repository (ideas
-    for runtime processes), **STD**: Standard ID, *THM*: Mathematical theorem (3 mln).'
+    for runtime processes), **STD**: Standard ID, **UNT**: Unit ID, *THM*: Mathematical
+    theorem (3 mln).'
 - content: Nekilnojamo turto kadastras ir registras](https://www.registrucentras.lt/turtas/)
     [NREIDs], [LT] [Regitra](https://www.regitra.lt/) [NTAIDs], žemės registrai.
   created: 1584674961870
