@@ -20,9 +20,8 @@
   note: ''
 - children:
   - EvhfyWsyAQs0UQhYyTmRt3y2
-  - Go78QSe3iGC6f1D8WpuIMeja
   - fllKcM9KMAPS5y6afNxPp3wj
-  - bhYwQQ9EnT0jnU7t49QtobK3
+  - WZ5aPEuRDa2hb-lBeuCQ0dmv
   - f1iQyHtQYIuIKsMHyiq26YK3
   - Vuvjy4nLC_HRrxLSlZvv6fxG
   color: 1
@@ -97,13 +96,8 @@
   modified: 1584675348988
   note: ''
 - children:
-  - _mIUoHGSC-BRY-HoyBdy4_9n
-  - L84dsje2-lLff1kPFrSqVmZc
-  - fH7w2puHshyK9UQD90QLZMaM
-  - 8XSCRFPMFQ5D1ilrul51OGGh
-  - zhi5or7GXgtwVo6R21ZG9wyS
-  - UxD8Bu0wU37k1KoKBjqod9ek
-  - vL1Yv2Qo92R3KEfgihnxQRiE
+  - u0Mdf-xKzAfDOT2ZYnv5L0TP
+  - hOaolCbjPECM_JaSxj2SMQN-
   - RatezVZ2aOmFILVmay00Osed
   color: 1
   content: '**Example sources:**'
@@ -511,20 +505,16 @@
   id: EvhfyWsyAQs0UQhYyTmRt3y2
   modified: 1590416944379
   note: ''
-- content: '[Tradingview](https://www.tradingview.com/) [FINIDS]'
+- content: '[Tradingview](https://www.tradingview.com/)'
   created: 1590416940566
   id: Go78QSe3iGC6f1D8WpuIMeja
-  modified: 1590416950417
+  modified: 1590492381475
   note: ''
-- content: '[MMI-Direct](https://mmi-direct.com/machines/search/?make_id=&page=brand)'
+- content: '[MMI-Direct](https://mmi-direct.com/machines/search/?make_id=&page=brand)
+    [INSTRID] (can infer from [Alibaba](https://www.alibaba.com/))'
   created: 1590416950455
   id: fllKcM9KMAPS5y6afNxPp3wj
-  modified: 1590416956373
-  note: ''
-- content: '[INSTRID] (can infer from [Alibaba](https://www.alibaba.com/))'
-  created: 1590416956690
-  id: bhYwQQ9EnT0jnU7t49QtobK3
-  modified: 1590416962361
+  modified: 1590492399512
   note: ''
 - content: '[Registrų centras](https://www.registrucentras.lt/turtas/) [NREIDs]'
   created: 1590416989343
@@ -936,4 +926,123 @@
   created: 1590417926822
   id: r10ud7jVvZY7kQV843B6m9Fk
   modified: 1590417934385
+  note: ''
+- children:
+  - _mIUoHGSC-BRY-HoyBdy4_9n
+  - L84dsje2-lLff1kPFrSqVmZc
+  - fH7w2puHshyK9UQD90QLZMaM
+  - 8XSCRFPMFQ5D1ilrul51OGGh
+  color: 1
+  content: 'CREDs:'
+  created: 1590492271412
+  id: u0Mdf-xKzAfDOT2ZYnv5L0TP
+  modified: 1590492309477
+  note: ''
+- children:
+  - zhi5or7GXgtwVo6R21ZG9wyS
+  - UxD8Bu0wU37k1KoKBjqod9ek
+  - In2YXZ339fM-LgWxpfQEEK1s
+  - pPWk-mIXmgO6NT8kvLzOeTYu
+  - vL1Yv2Qo92R3KEfgihnxQRiE
+  color: 1
+  content: 'SNETs:'
+  created: 1590492283525
+  id: hOaolCbjPECM_JaSxj2SMQN-
+  modified: 1590492309477
+  note: ''
+- content: INO MarketClub
+  created: 1590492323800
+  id: VUXBctfd6WBkHQqg8IfYOCaR
+  modified: 1590492327476
+  note: ''
+- content: MetaStock
+  created: 1590492322206
+  id: V9dvf9WhUluZsutoTZwcFf1J
+  modified: 1590492327476
+  note: ''
+- content: Ally Invest
+  created: 1590492323800
+  id: 9tXWOi3zlftT9szo2stJ_qeF
+  modified: 1590492327476
+  note: ''
+- content: TD Ameritrade
+  created: 1590492323801
+  id: mTg60cCpMZIVqaTJENLAU3ZC
+  modified: 1590492327476
+  note: ''
+- content: Yewno|Edge
+  created: 1590492323796
+  id: aplmTY8MPA0niYDT03QQt6XH
+  modified: 1590492327476
+  note: ''
+- content: E-Trade
+  created: 1590492323801
+  id: -L1BKSbvH5FCoR8ZbyXqP3YF
+  modified: 1590492327476
+  note: ''
+- content: ProfitSource
+  created: 1590492323799
+  id: daPx9i2Ybgs5_SlhdQXN0FSP
+  modified: 1590492327476
+  note: ''
+- content: eSignal
+  created: 1590492323797
+  id: otojK8pZfCgnL0u2UjAotxVf
+  modified: 1590492327476
+  note: ''
+- content: VectorVest
+  created: 1590492323799
+  id: NgnMWNg77Lq2ZU05769ddBj8
+  modified: 1590492327476
+  note: ''
+- content: TradingView
+  created: 1590492323797
+  id: nZt1MquiWxGjZ53yNqaY-M8n
+  modified: 1590492327476
+  note: ''
+- content: EquityFeed Workstation
+  created: 1590492323798
+  id: xgmWCBlaHi7kI9HU7I2-DJG2
+  modified: 1590492327476
+  note: ''
+- content: Ninja Trader
+  created: 1590492323798
+  id: P-RHSfmw4bRCR7NcWXaexFsk
+  modified: 1590492327476
+  note: ''
+- children:
+  - Go78QSe3iGC6f1D8WpuIMeja
+  - V9dvf9WhUluZsutoTZwcFf1J
+  - aplmTY8MPA0niYDT03QQt6XH
+  - otojK8pZfCgnL0u2UjAotxVf
+  - nZt1MquiWxGjZ53yNqaY-M8n
+  - P-RHSfmw4bRCR7NcWXaexFsk
+  - xgmWCBlaHi7kI9HU7I2-DJG2
+  - NgnMWNg77Lq2ZU05769ddBj8
+  - daPx9i2Ybgs5_SlhdQXN0FSP
+  - VUXBctfd6WBkHQqg8IfYOCaR
+  - 9tXWOi3zlftT9szo2stJ_qeF
+  - mTg60cCpMZIVqaTJENLAU3ZC
+  - -L1BKSbvH5FCoR8ZbyXqP3YF
+  - bv1VJuWXl6ZZuVos-Eby9opW
+  color: 1
+  content: 'FINIDSs:'
+  created: 1590492330869
+  id: WZ5aPEuRDa2hb-lBeuCQ0dmv
+  modified: 1590492345486
+  note: ''
+- content: __**[Enter] to insert new line!**__
+  created: 1590492346754
+  id: bv1VJuWXl6ZZuVos-Eby9opW
+  modified: 1590492351547
+  note: ''
+- content: Facebook
+  created: 1590492410482
+  id: In2YXZ339fM-LgWxpfQEEK1s
+  modified: 1590492429513
+  note: ''
+- content: WeChat
+  created: 1590492412494
+  id: pPWk-mIXmgO6NT8kvLzOeTYu
+  modified: 1590492435461
   note: ''
