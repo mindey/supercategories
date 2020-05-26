@@ -232,10 +232,8 @@
   note: '**CPN**: Company Project Name, **CSPN**: Consortium Programme, **PPN**: Personal
     Project Name, **PCN**: Project Codename, **MID**: Mission ID.'
 - children:
-  - Q_XIW7ZU86GqQ1EvvUZ50CE2
-  - DwDQXHP8W0Pb2WfyaezUhWi6
+  - kUBcZgJ3tuQGd5L7xSXn_Qjo
   - PdqGTeOSofxYShedO-U8_FVm
-  - eZcOm7DRYygdZLW91A2Gf33z
   - ysDp-ICnrLoLHfvH_gojAq0H
   - 2YIaVYsX_O_eGa9VZgRRidzs
   - OLNdm5sPk8S-rdCAM7u03Zpo
@@ -851,7 +849,9 @@
   id: DwDQXHP8W0Pb2WfyaezUhWi6
   modified: 1590417706379
   note: ''
-- content: '[Google Patents](https://www.google.com/?tbm=pts) [100 mln. PTN]'
+- children:
+  - eZcOm7DRYygdZLW91A2Gf33z
+  content: '[Google Patents](https://www.google.com/?tbm=pts) [100 mln. PTN]'
   created: 1590417702005
   id: PdqGTeOSofxYShedO-U8_FVm
   modified: 1590417712380
@@ -932,6 +932,7 @@
   - L84dsje2-lLff1kPFrSqVmZc
   - fH7w2puHshyK9UQD90QLZMaM
   - 8XSCRFPMFQ5D1ilrul51OGGh
+  - IrxFt4CnnG4u8YZOGsRILZju
   color: 1
   content: 'CREDs:'
   created: 1590492271412
@@ -1045,4 +1046,18 @@
   created: 1590492412494
   id: pPWk-mIXmgO6NT8kvLzOeTYu
   modified: 1590492435461
+  note: ''
+- content: __**[Enter] to insert new line!**__
+  created: 1590511950391
+  id: IrxFt4CnnG4u8YZOGsRILZju
+  modified: 1590511959796
+  note: ''
+- children:
+  - Q_XIW7ZU86GqQ1EvvUZ50CE2
+  - DwDQXHP8W0Pb2WfyaezUhWi6
+  color: 1
+  content: SPN
+  created: 1590512089370
+  id: kUBcZgJ3tuQGd5L7xSXn_Qjo
+  modified: 1590512103879
   note: ''
