@@ -136,6 +136,8 @@
   note: ''
 - children:
   - EHsl3rSd45yN5VGEguzcWSy3
+  - jQO3p6PrQzU0DfwICOadOd7d
+  - U_FOnXtAxJypl1DVSiXP7EM_
   - 9rYEFZN2hmBA0bfVIvMjJD8p
   - CS-vX-_stbO3Mo23MvZNHbi6
   color: 1
@@ -215,7 +217,6 @@
   note: ''
 - children:
   - eaT4BrWKIsrbzFahXmgGRPhL
-  collapsed: true
   color: 4
   content: (Why?) **Goals:**
   created: 1584674961860
@@ -836,7 +837,7 @@
 - content: ' [LexisNexis](https://www.lexisnexis.com)'
   created: 1590417654746
   id: EHsl3rSd45yN5VGEguzcWSy3
-  modified: 1590417658810
+  modified: 1590979068257
   note: ''
 - content: __**[Enter] to insert new line!**__
   created: 1590417661770
@@ -1069,4 +1070,14 @@
   created: 1590512089370
   id: kUBcZgJ3tuQGd5L7xSXn_Qjo
   modified: 1590512103879
+  note: ''
+- content: Quora
+  created: 1590977934680
+  id: jQO3p6PrQzU0DfwICOadOd7d
+  modified: 1590977939797
+  note: ''
+- content: 知呼
+  created: 1590977945419
+  id: U_FOnXtAxJypl1DVSiXP7EM_
+  modified: 1590977951799
   note: ''
