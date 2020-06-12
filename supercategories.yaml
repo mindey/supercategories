@@ -40,6 +40,7 @@
   modified: 1590417640369
   note: ''
 - children:
+  - 8LbbjZBNGASTtUFAK9SzUbVC
   - V975g8-MVOvbAkcFOTfpcqOI
   - 0HERA_R1BOXaUxcLabeFWjvj
   - BrS38WqM6nvQhWJiAlCfGOKF
@@ -321,7 +322,6 @@
   note: ''
 - children:
   - LjDB7XE-EFizyzdsu43d6cC5
-  collapsed: true
   color: 6
   content: (Doing...) **Operations**
   created: 1584674961865
@@ -1080,4 +1080,10 @@
   created: 1590977945419
   id: U_FOnXtAxJypl1DVSiXP7EM_
   modified: 1590977951799
+  note: ''
+- content: https://schemas.liquid-technologies.com/OFX/2.1.1/ OFX  -- financial data
+    exchange format.
+  created: 1591956084763
+  id: 8LbbjZBNGASTtUFAK9SzUbVC
+  modified: 1591956112908
   note: ''
